@@ -1,0 +1,9 @@
+[[VerizonEctoken]]
+arch = "x86_64"
+git-tree-sha1 = "498c9d2eb5b495dd0563b21b0743376443097d47"
+libc = "glibc"
+os = "linux"
+
+    [[VerizonEctoken.download]]
+    sha256 = "3eefd6cd885118947c28bbffc362258115e2288893d5a61c8facd6827cc726dd"
+    url = "https://github.com/JuliaBinaryWrappers/VerizonEctoken_jll.jl/releases/download/VerizonEctoken-v0.1.0+0/VerizonEctoken.v0.1.0.x86_64-linux-gnu.tar.gz"
